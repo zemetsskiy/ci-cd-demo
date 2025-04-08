@@ -2,7 +2,7 @@
   "name": "ci-cd-pipeline",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zemetsskiy.github.io/ci-cd-pipeline",
+  "homepage": "https://zemetsskiy.github.io/ci-cd-demo",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
